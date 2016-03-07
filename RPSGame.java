@@ -25,7 +25,7 @@ public class RPSGame {
 			{System.out.print("It's a Draw!");}
 			
 			else if (playerOnePick == 1 && playerTwoPick == 2)
-			{System.out.print("Paper beats Rock! PLAYER 1 wins!");}
+			{System.out.print("Paper beats Rock! PLAYER 2 wins!");}
 			else if (playerOnePick == 1 && playerTwoPick == 3)
 			{System.out.print("Rock beats Scissors! PLAYER 1 wins!");}
 			
